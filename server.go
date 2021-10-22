@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/MateusFrFreitas/goland-gin-poc/controller"
-	service "github.com/MateusFrFreitas/goland-gin-poc/services"
+	"github.com/MateusFrFreitas/goland-gin-poc/service"
 	"github.com/gin-gonic/gin"
 )
 

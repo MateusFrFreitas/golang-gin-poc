@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/MateusFrFreitas/goland-gin-poc/entity"
-	service "github.com/MateusFrFreitas/goland-gin-poc/services"
+	"github.com/MateusFrFreitas/goland-gin-poc/service"
 	"github.com/gin-gonic/gin"
 )
 
